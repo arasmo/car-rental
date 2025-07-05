@@ -1,0 +1,6 @@
+in today's class we practiced
+how to clone owners git repository
+how to add files and commit changes and then push it to remote
+how to pull request, to collaborate with the repository
+basically how to collaboratively work on a projet on github.
+

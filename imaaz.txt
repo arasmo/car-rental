@@ -1,3 +1,0 @@
-this is imaaz.txt 
-i am mern stack dev
-i have completed my B.E (CSE)
